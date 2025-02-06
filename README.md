@@ -33,3 +33,4 @@ DEPLOYED APPLICATION LINK : [https://geminichatbot-ui.streamlit.app/](https://ge
 
 For questions or support, please contact [pankajkumar732298@gmail.com](mailto:pankajkumar732298@gmail.com).
 
+![chatbot](images/screenshots.png)
